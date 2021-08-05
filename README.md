@@ -9,6 +9,6 @@
 
 # Note:
 > This repo is still under developement, here are the problems which might occure:
-* While running **AnnotationConverter.py**: Error "EOF detect in file in line ... " will be raised. To solve this, simply delete the annot file_[num].
+* While running **AnnotationConverter.py**: Error "EOF detect in file_[num] in line ... " will be raised. To solve this, simply delete the annot file_[num].
 * **AnnotationConverter.py** isn't fully functional, self coding in encouraged.
 * Another way to fix error "EOF..." is to remove and then add the annot file to the folder again.

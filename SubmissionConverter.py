@@ -6,6 +6,7 @@ import numpy as np
 import glob
 import json
 
+# Change your predicted file path here
 annot = 'D:/PaddleModel/predicts_east.txt'
 outfile = 'D:/PaddleModel/submit_AI.txt'
 

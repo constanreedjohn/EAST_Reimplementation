@@ -7,7 +7,7 @@ from tqdm import tqdm
 import pandas as pd
 import json
 
-# Label folder path
+# Adjust your label folder path here
 root_path = 'D:/PaddleModel/Data/validation/fix_val/*'
 files = glob.glob(root_path)
 outfile = 'D:/PaddleModel/Data/validation/val_annotation.txt'

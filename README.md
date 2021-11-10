@@ -15,4 +15,4 @@ This repo is still under developement, here are the problem which might occure:
 * **AnnotationConverter.py** isn't fully functional, self coding is encouraged.
 * Another way to fix error "EOF..." is to remove and then add the annot file to the folder again.
 
-# Ref: https://github.com/PaddlePaddle/PaddleOCR
+Ref: https://github.com/PaddlePaddle/PaddleOCR
